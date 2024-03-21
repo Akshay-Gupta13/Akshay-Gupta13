@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akshaygupta132" target="blank"><img src="https://img.shields.io/twitter/follow/akshaygupta132?logo=twitter&style=for-the-badge" alt="akshaygupta132" /></a> </p>
 
-- 🔭 I’m currently working on **ExpenseTracker **
+- 🔭 I’m currently working on **ExpenseTracker**
 
 - 🌱 I’m currently learning **Express, Django, Typescript**
 
