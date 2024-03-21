@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/akshaygupta132" target="blank"><img src="https://img.shields.io/twitter/follow/akshaygupta132?logo=twitter&style=for-the-badge" alt="akshaygupta132" /></a> </p>
 
-- 🔭 I’m currently working on **JobSearch**
+- 🔭 I’m currently working on **ExpenseTracker **
 
 - 🌱 I’m currently learning **Express, Django, Typescript**
 
-- 💬 Ask me about **React, CSS**
+- 💬 Ask me about **Django, React**
 
 - 📫 How to reach me **akshaygupta57853@gmail.com**
 
